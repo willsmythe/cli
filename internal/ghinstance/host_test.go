@@ -2,7 +2,7 @@ package ghinstance
 
 import (
 	"testing"
-)
+)asdf
 
 func TestOverridableDefault(t *testing.T) {
 	oldOverride := hostnameOverride
